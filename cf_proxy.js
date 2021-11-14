@@ -1,7 +1,7 @@
 var credentials = {
-  "client_id": "202264815644.apps.googleusercontent.com", // rclone client_id
-  "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ", // rclone client_secret
-  "refresh_token": "*******" // refresh token is unique
+  "client_id": "492579108954-th7djai6pu0s928e66pm4aa6k34nedf3.apps.googleusercontent.com", // rclone client_id
+  "client_secret": "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", // rclone client_secret
+  "refresh_token": "1//09SxvIZd_SmQHCgYIARAAGAkSNwF-L9Ir1ulQMG4Bvez1Y73m60he7Ucd15QATcIhWewXh1HHTQmSIxDBk4HIdWGKuISTzdw7xcQ" // refresh token is unique
 }
 
 async function handleRequest(request) {
