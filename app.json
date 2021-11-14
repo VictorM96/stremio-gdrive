@@ -1,8 +1,8 @@
 {
   "name": "stremio-gdrive",
-  "description": "GDrive video addon for stremio.",
+  "description": "GDrive video addon for stremio by Netbuster.",
   "keywords": ["gdrive", "stremio"],
-  "repository": "https://github.com/ssnjrthegr8/stremio-gdrive",
+  "repository": "https://github.com/VictorM96/stremio-gdrive",
   "stack": "heroku-20",
   "env": {
     "TOKEN": {
